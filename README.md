@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Inspirelab](https://inspirelab.io/)
-- 🌱 I’m currently learning K8S.
+- 🌱 My title is Site Reliability Engineering
 - 👯 I’m looking to collaborate on [Meepo](https://meepo.vn)
 - 🤔 I’m looking for help with investment
 - 💬 Ask me about anything
