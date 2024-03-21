@@ -11,7 +11,7 @@
 
 | | |
 |:-----|:--------|
-| OS | [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev), MacOS |
+| OS | [![My Skills](https://skillicons.dev/icons?i=linux,apple)](https://skillicons.dev) |
 | IDE | [![My Skills](https://skillicons.dev/icons?i=vim,androidstudio)](https://skillicons.dev) |
 | VSC | [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev) |
 | Language | [![My Skills](https://skillicons.dev/icons?i=kotlin,go,java,powershell,javascript,ts,&perline=8)](https://skillicons.dev) |
