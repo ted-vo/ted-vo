@@ -2,10 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ted-vo)
 
-- I’m freelance.
-- My title is Site Reliability Engineering
-- I’m looking for help with investment
-- I'm learning Chinese 汉语
+- I’m Software Engineer and freelance also
+- My title is Site Reliability Engineering for now
+- I'm learning Chinese 汉语 for hobbie
 - Ask me about anything
 - How to reach me: [Telegram](https://t.me/ted_vo)
 
